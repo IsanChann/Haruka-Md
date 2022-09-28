@@ -1,8 +1,8 @@
 {
-    "wait": "Sabar ya...",
+    "wait": "Chottomatte kudasai nee...",
     "error": {
         "Iv": "Link nya nggak valid kak...",
-        "api": "Gomenne sedang terjadi kesalahan"
+        "api": "Mōshiwakearimasen,sedang ada masalah..."
     },
     "OnlyGrup": "Perintah khusus di grup,baka!!",
     "OnlyPM": "Perintah private message,dasar baka..",
